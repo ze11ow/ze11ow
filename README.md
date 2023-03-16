@@ -1,19 +1,26 @@
-### Hi there 👋
-🌱 I’m currently learning C++, Arduino
+# Benjamin Lee - Mechanical Engineering Student
 
-👯 I’m looking to collaborate on Mechanical Engineering Projects
+## Overview
+Welcome to my GitHub profile! I am a student pursuing my BASc in Mechanical Engineer at UBC! 
 
-😄 Pronouns: He/Him
+## Projects
+Here are some of my most recent and notable projects:
 
-⚡ Fun fact: I enjoy biking, soccer, volleyball, and working out!
+- **Postur-ino**: [Brief project description, including its purpose and any notable features or achievements]
+- **[Project name]**: [Brief project description, including its purpose and any notable features or achievements]
+- **[Project name]**: [Brief project description, including its purpose and any notable features or achievements]
 
-Instagram: @benjam.lee
+Each project in this repository includes detailed documentation, source code, and a link to a live demo or deployment. 
 
-Linkedin: linkedin.com/in/benjamlee/ 
-<!--
-**ze11ow/ze11ow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Here are some of the skills and technologies that I have expertise in:
 
-Here are some ideas to get you started:
+- [Skill/technology name]
+- [Skill/technology name]
+- [Skill/technology name]
+- [Skill/technology name]
 
-- 
--->
+## Contact
+If you are interested in learning more about my skills and experience, please feel free to reach out to me at [contact information, such as email or LinkedIn profile].
+
+Thank you for visiting my GitHub profile!
