@@ -8,16 +8,13 @@ Here are some of my most recent and notable projects:
 
 - **Postur-ino**: [Brief project description, including its purpose and any notable features or achievements]
 - **UAS Airbus**: Concept airbus for AEAC competition.
-- **[Project name]**: [Brief project description, including its purpose and any notable features or achievements]
-
-Each project in this repository includes detailed documentation, source code, and a link to a live demo or deployment. 
 
 ## Skills
 Here are some of the skills and technologies that I have expertise in:
 
 - Programming (Python, MATLAB C++, C)
 - CAD Software (SolidWorks, OnShape)
-- Simulation Software (ANSYS, MSC ADAMS)
+- Simulation Software (ANSYS)
 - Microcontrollers (Arduino, RasberryPi)
 
 ## Contact
